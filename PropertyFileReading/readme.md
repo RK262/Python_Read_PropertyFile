@@ -1,0 +1,1 @@
+Python example of read and write property file.
